@@ -18,7 +18,7 @@ This project develops a Question and Answer Chatbot using the Simple Transformer
 ### Setup and Installation
 1. **Clone the Repository**: Start by cloning this repository to your Google Drive for easy access in Google Colab.
    ```bash
-   git clone https://github.com/yourgithubusername/question-and-answer-chatbot.git
+   git clone https://github.com/nav-commits/QuestionAndAnswerChatbot.git
 
 ## Install Dependencies:
    !pip install simpletransformers
